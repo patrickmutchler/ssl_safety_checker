@@ -1,7 +1,7 @@
 # Android SSL Safety Checker
 
 ### What's it do?
-This tool analyzes each of the apps on your phone for bad behavior when handling SSL errors in WebView. Our research has shown that a whopping XYZ% of WebView apps do at least *something* weird with SSL errors, leaving their users vulnerable to attack by malicious networks without any indication that something is going wrong. This tool can help you figure out if your apps are using SSL safely or not. For more details about SSL errors in WebView and how things can go wrong check out [this blog post](stanford.edu/~pcm2d/blog/ssl.html).
+This tool analyzes each of the apps on your phone for bad behavior when handling SSL errors in WebView. Our research has shown that a whopping 18% of WebView apps do at least *something* weird with SSL errors, leaving their users vulnerable to attack by malicious networks without any indication that something is going wrong. This tool can help you figure out if your apps are using SSL safely or not. For more details about SSL errors in WebView and how things can go wrong check out [this blog post](stanford.edu/~pcm2d/blog/ssl.html).
 
 ### Usage
 TODO
